@@ -22,7 +22,7 @@ const generatedPassword = askName + askSurname + askColor + askBirthday ;
 const genText =
 
 `
-<p> La tua password: ${generatedPassword}
+<p class="texto"> La tua password: ${generatedPassword}
 
 `
 
